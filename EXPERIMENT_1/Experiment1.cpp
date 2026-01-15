@@ -55,3 +55,5 @@ int main() {
 
     return 0;
 }
+// Recurance relation: T(N) = 3T(N/2)+N*LOG(N)
+// master theorem: theta(n^(1.584)) case 1(f(n)< n^k)
