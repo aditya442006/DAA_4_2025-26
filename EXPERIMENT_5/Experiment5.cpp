@@ -84,3 +84,6 @@ int main(){
 	
 	
 }
+
+
+// time complexity -- > brute force -- o(2^n) ---> using dp o(n*sum) 
